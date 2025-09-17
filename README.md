@@ -42,11 +42,19 @@ Este proyecto analiza la evolución del **Salario Mínimo Interprofesional (SMI)
 ## 📈 Visualizaciones destacadas
 
 > 📌 Capturas de gráficos generados en el análisis.
->
-> 
+
+---
+
 > ## 🧠 Principales hallazgos
 
 - El salario mínimo creció un **183,94%** desde 1999, superando la inflación acumulada (**87,69%**).
 - El **poder adquisitivo real del salario mínimo mejoró sostenidamente**, salvo años puntuales como 2022.
 - Las políticas salariales post-2019 muestran una clara intención de **recuperar ingresos reales**.
+
+---
+
+## 👨‍💻 Autor
+
+**Javier Reitano**  
+📧 javiritano@gmail.com
 
